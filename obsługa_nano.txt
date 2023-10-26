@@ -1,0 +1,12 @@
+ctrl O - Zapisz
+ctrl G - Pomoc
+ctrl W - Wyszukiwarka
+ctrl K - Wycięcie
+ctrl T - Wykonaj
+ctrl C - Lokalizacja
+ctrl X - Wyjście
+ctrl R - Wczyt.pliku
+ctrl \ - Zastąp
+ctrl U - Wklej
+ctrl J - Wyjutsuj
+ctrl / _ Do linii

@@ -1,0 +1,3 @@
+A - edytor tekstu
+: - początek komend
+q - Wyjście
